@@ -1,20 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="JupyterPersistentConnectionParameters">
-    <option name="knownRemoteServers">
-      <list>
-        <JupyterConnectionParameters>
-          <option name="authType" value="notebook" />
-          <option name="token" value="a5a9429067f8a34d924ced51d67541524cf3a1fe206b3506" />
-          <option name="urlString" value="http://localhost:8888/" />
-          <authParams2>
-            <map>
-              <entry key="token" value="a5a9429067f8a34d924ced51d67541524cf3a1fe206b3506" />
-            </map>
-          </authParams2>
-        </JupyterConnectionParameters>
-      </list>
-    </option>
     <option name="moduleParameters">
       <map>
         <entry key="$USER_HOME$/PycharmProjects/learn/.idea/learn.iml">
